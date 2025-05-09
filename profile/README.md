@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+# Magician Ground
+<a href="https://github.com/MagicianTech" alt="GithubMagincianGroundLink" >Magician Ground Github</a>
+
+
 <!--
 
 **Here are some ideas to get you started:**
