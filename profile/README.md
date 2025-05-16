@@ -11,21 +11,6 @@ Convertirnos en una de las empresas líderes en soluciones tecnológicas, recono
 
 ---
 
-### Tareas Específicas
-Cada tarea debe ser descrita de forma clara, con el objetivo de ser ajustable según la necesidad. Ejemplo de estructura de tarea:
-
-- **Nombre de la tarea**: Implementación de API para el módulo de usuarios.
-  - **Descripción**: Desarrollar una API RESTful para gestionar usuarios (crear, editar, eliminar, listar).
-  - **Responsable**: [Nombre del miembro del equipo]
-  - **Fecha de inicio**: [Fecha]
-  - **Fecha de entrega**: [Fecha]
-  - **Prioridad**: Alta/Media/Baja
-  - **Dependencias**: [Si la tarea depende de otras]
-  - **Estado**: Pendiente/En progreso/Completada
-  - **Comentarios adicionales**: [Notas y aclaraciones]
-
----
-
 ## Planificación y Metodología
 
 **Metodología Ágil (Scrum/Kanban)**: Trabajamos bajo un enfoque ágil para adaptarnos rápidamente a los cambios y entregar resultados de calidad. 
